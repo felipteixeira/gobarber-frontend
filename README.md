@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="gobarber-web/src/assets/logo.svg" width="200px">
+<img src="https://github.com/felipteixeira/gobarber-web/blob/master/src/assets/logo.svg" width="200px">
 </h1>
 
 ### :page_with_curl: About
