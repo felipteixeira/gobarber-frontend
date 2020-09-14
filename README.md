@@ -8,5 +8,5 @@ This project is based on an application for a hair salon. Containing scheduling,
 ### :heavy_check_mark: Result in Frontend
 
 <p align="center">
-  <img alt="" src="gobarber-web/public/barber.gif">
+  <img alt="" src="https://github.com/felipteixeira/gobarber-web/blob/master/public/barber.gif">
 </p>
